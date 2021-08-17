@@ -11,10 +11,12 @@ for tc in range(1, T+1):
     long_str = input()
     new_str = long_str.split(' ')
 
+
     for i in range(int(str_length)):
         new_str[i] = str_to_num[new_str[i]]
     changed_str = new_str[:-1]
     changed_str.sort()
+
 
     for i in range(len(changed_str)):
         changed_str[i] = num_to_str[changed_str[i]]
