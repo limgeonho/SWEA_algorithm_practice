@@ -16,9 +16,8 @@ for _ in range(1, 11):
     while stack:
         now = stack.pop()
         visited[now] = True
-        # print(now)
+
         for i in graph[now]:
-            # print(i)
             if i == 99:
 
                 answer = 1
