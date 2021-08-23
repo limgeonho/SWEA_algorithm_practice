@@ -1,0 +1,202 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="8f5e4e89-9e65-404d-b0ca-c26602072999" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../../0811/1209_HW_sum/임건호.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../0811/1954_달팽이숫자/test.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../0811/1954_달팽이숫자/임건호.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../0811/p1_이웃절대값/임건호.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../0811/p2_부분집합/임건호.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../0812/1210_HW_ladder1/임건호.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../0812/1966_숫자를정렬하자/임건호.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../0812/1979_어디에단어가들어갈수있을까/임건호.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../0812/2001_파리퇴치/임건호.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../0812/L4836_색칠하기/임건호.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../0812/L4837_[부분집합의합]/임건호.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../0812/L4839_이진탐색/임건호.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../0812/L4843_특별한정렬/임건호.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../0813/1213_string활용/임건호.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../0813/1221_HW_GNS/임건호.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../0817/1216_HW_회문2/임건호.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../0817/3143_가장빠른문자열타이핑/임건호.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../0817/L4861_회문/임건호.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../0817/L4864_문자열비교/임건호.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../0817/L4865_글자수/임건호.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../0817/[5432_쇠막대기자르기]/임건호.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../0818/2005_HW_파스칼의삼각형/임건호.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../0819/1219_HW_길찾기/임건호.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../0819/1234_비밀번호/임건호.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../0819/L4866_괄호검사/임건호.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../0819/L4873_반복문자지우기/임건호.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../0819/[L4869_종이붙이기-5,6]/임건호.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../0819/[L4871_그래프경로-1,2]/임건호.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../0820/1219_길찾기/임건호.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../0820/1859_백만장자프로젝트/input-a.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../0820/1859_백만장자프로젝트/임건호.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../0820/1961_숫자배열회전/임건호.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../0820/1974_스도쿠검증/임건호.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../0820/1979_어디에단어가들어갈수있을까/임건호.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../0820/4408_자기방으로돌아가기/임건호.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../0820/5356_의석이의세로로말해요/임건호.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../0820/6485_삼성시의버스노선/임건호.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/임건호.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../0810/L4831_[전기버스]/임건호.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../0810/L4831_[전기버스]/임건호.py" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/임건호.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret selection-end-line="34" selection-end-column="31" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/input.txt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="15">
+              <caret line="1" column="101" selection-start-line="1" selection-start-column="101" selection-end-line="1" selection-end-column="101" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/input.txt" />
+        <option value="$PROJECT_DIR$/임건호.py" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="1912" />
+    <option name="y" value="6" />
+    <option name="width" value="1297" />
+    <option name="height" value="1398" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="1223_계산기2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="1223_계산기2" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="임건호" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="1223_계산기2" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/임건호.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.임건호" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8f5e4e89-9e65-404d-b0ca-c26602072999" name="Default Changelist" comment="" />
+      <created>1629704384496</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1629704384496</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="1914" y="6" width="1037" height="1118" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Favorites" side_tool="true" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.245" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Version Control" />
+      <window_info anchor="bottom" id="Python Console" />
+      <window_info anchor="bottom" id="Terminal" />
+      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32994923" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/input.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="1" column="101" selection-start-line="1" selection-start-column="101" selection-end-line="1" selection-end-column="101" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/임건호.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-line="34" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
