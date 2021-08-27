@@ -14,13 +14,14 @@ def bfs(start_y, start_x, maze, dist):
         for dy, dx in moves:
             ny = y + dy
             nx = x + dx
-            if 0 <= ny <n and 0 <= nx <n and (maze[ny][nx] == 0 or maze[ny][nx] == 3):
+            if 0 <= ny < n and 0 <= nx < n and (maze[ny][nx] == 0 or maze[ny][nx] == 3):
                 if maze[ny][nx] == 3:
                     return dist[y][x]
                 else:
                     maze[ny][nx] = 1
                     dist[ny][nx] = dist[y][x] + 1
                     q.append((ny, nx))
+    return 0
 
 
 def find_start(maze):
@@ -29,6 +30,8 @@ def find_start(maze):
             if maze[i][j] == 2:
                 y, x = i, j
                 return y, x
+
+
 T = int(input())
 
 for tc in range(1, T+1):
@@ -37,13 +40,11 @@ for tc in range(1, T+1):
 
     for _ in range(n):
         maze.append(list(map(int, input())))
+
     s_y, s_x = find_start(maze)
 
     dist = [[0] * n for _ in range(n)]
 
-    answer = bfs(s_y, s_x , maze, dist)
+    answer = bfs(s_y, s_x, maze, dist)
 
-    if answer:
-        print(f'#{tc} {answer}')
-    else:
-        print(f'#{tc} {0}')
+    print(f'#{tc} {answer}')
