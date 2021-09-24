@@ -1,63 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e3fa9946-cf60-400e-8fa2-87ad82c2f5d3" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../0811/1209_HW_sum/임건호.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../0811/1954_달팽이숫자/test.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../0811/1954_달팽이숫자/임건호.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../0811/p1_이웃절대값/임건호.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../0811/p2_부분집합/임건호.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../0812/1210_HW_ladder1/임건호.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../0812/1966_숫자를정렬하자/임건호.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../0812/1979_어디에단어가들어갈수있을까/임건호.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../0812/2001_파리퇴치/임건호.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../0812/L4836_색칠하기/임건호.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../0812/L4837_[부분집합의합]/임건호.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../0812/L4839_이진탐색/임건호.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../0812/L4843_특별한정렬/임건호.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../0813/1213_string활용/임건호.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../0813/1221_HW_GNS/임건호.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../0817/1216_HW_회문2/임건호.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../0817/3143_가장빠른문자열타이핑/임건호.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../0817/L4861_회문/임건호.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../0817/L4864_문자열비교/임건호.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../0817/L4865_글자수/임건호.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../0817/[5432_쇠막대기자르기]/임건호.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../0818/2005_HW_파스칼의삼각형/임건호.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../0819/1219_HW_길찾기/임건호.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../0819/1234_비밀번호/임건호.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../0819/L4866_괄호검사/임건호.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../0819/L4873_반복문자지우기/임건호.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../0819/[L4869_종이붙이기-5,6]/임건호.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../0819/[L4871_그래프경로-1,2]/임건호.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../0820/1219_길찾기/임건호.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../0820/1859_백만장자프로젝트/input-a.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../0820/1859_백만장자프로젝트/임건호.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../0820/1961_숫자배열회전/임건호.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../0820/1974_스도쿠검증/임건호.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../0820/1979_어디에단어가들어갈수있을까/임건호.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../0820/4408_자기방으로돌아가기/임건호.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../0820/5356_의석이의세로로말해요/임건호.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../0820/6485_삼성시의버스노선/임건호.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../0823/1223_계산기2/임건호.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../0823/후위표기법전환/임건호.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../0824/1224_HW_계산기3/임건호.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../0824/L4874_forth/임건호.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../0824/L4875_미로/임건호.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../0824/L4880_토너먼트카드게임/임건호.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../0824/L4881_배열최소/임건호.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../0825/1225_암호생성기/임건호.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../0825/L4871_그래프경로/임건호.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../0825/L4871_그래프경로/임건호_2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../0826/1224_계산기3/임건호.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../0826/1226_HW_미로1/임건호.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../0826/1226_HW_미로1/임건호_2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../0826/L5079_회전/임건호.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../0826/L5099_피자굽기/임건호.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../0826/L5102_노드의거리/임건호.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../0826/L5105_미로의거리/임건호.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../0810/L4831_[전기버스]/임건호.py" beforeDir="false" afterPath="$PROJECT_DIR$/../0810/L4831_[전기버스]/임건호.py" afterDir="false" />
-    </list>
+    <list default="true" id="e3fa9946-cf60-400e-8fa2-87ad82c2f5d3" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -82,9 +26,9 @@
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="1">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="215" />
-    <option name="y" value="182" />
+    <option name="y" value="181" />
     <option name="width" value="1625" />
     <option name="height" value="965" />
   </component>
@@ -242,9 +186,9 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="172" y="146" width="1300" height="772" extended-state="1" />
+    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.14647664" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.12227363" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
