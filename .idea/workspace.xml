@@ -1,29 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="4d5dc8ec-706c-4403-aa5a-8288c5cc9273" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/0930/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/0930/1242_암호코드스캔/임건호.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/0930/L5185_이진수/임건호.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/0930/L5186_이진수2/임건호.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/5185/.idea/5185.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/5185/.idea/encodings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/5185/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/5185/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/5185/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/5185/.idea/workspace.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/5185/input.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/5185/임건호.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/5186/.idea/5186.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/5186/.idea/encodings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/5186/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/5186/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/5186/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/5186/.idea/workspace.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/5186/input.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/5186/임건호.py" beforeDir="false" />
-    </list>
+    <list default="true" id="4d5dc8ec-706c-4403-aa5a-8288c5cc9273" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -276,7 +254,7 @@
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.163286" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.163286" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
