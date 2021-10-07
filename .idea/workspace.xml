@@ -1,7 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="4d5dc8ec-706c-4403-aa5a-8288c5cc9273" name="Default Changelist" comment="" />
+    <list default="true" id="4d5dc8ec-706c-4403-aa5a-8288c5cc9273" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/1006/powerset의합.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1006/퀵정렬.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1007/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1007/HW1865_동철이의일분배/임건호.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1007/L5205_퀵정렬/임건호.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1007/L5207_이진탐색/임건호.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1007/L5208_전기버스2/임건호.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1007/L5209_최소생산비용/임건호.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1005/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/1005/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1005/L5202_화물도크/임건호.py" beforeDir="false" afterPath="$PROJECT_DIR$/1005/L5202_화물도크/임건호.py" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -11,28 +23,87 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/0930/1242_암호코드스캔/임건호.py">
+        <entry file="file://$PROJECT_DIR$/1005/L5189_전자카트/임건호.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="150">
-              <caret line="10" column="12" selection-start-line="10" selection-start-column="12" selection-end-line="10" selection-end-column="12" />
+            <state relative-caret-position="345">
+              <caret line="23" selection-end-line="23" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/0930/L5185_이진수/임건호.py">
+        <entry file="file://$PROJECT_DIR$/1005/L5201_컨테이너운반/임건호.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="60">
-              <caret line="4" lean-forward="true" selection-start-line="4" selection-end-line="4" />
+            <state relative-caret-position="315">
+              <caret line="21" column="28" selection-end-line="21" selection-end-column="28" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/1005/L5202_화물도크/임건호.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="165">
+              <caret line="11" column="22" selection-start-line="11" selection-start-column="22" selection-end-line="11" selection-end-column="22" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/1006/퀵정렬.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="120">
+              <caret line="8" selection-start-line="8" selection-end-line="8" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/1006/powerset의합.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="75">
+              <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/1007/HW1865_동철이의일분배/임건호.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="540">
+              <caret line="36" column="4" selection-start-line="36" selection-start-column="4" selection-end-line="36" selection-end-column="4" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/0930/L5186_이진수2/임건호.py">
+        <entry file="file://$PROJECT_DIR$/1007/L5205_퀵정렬/임건호.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="300">
-              <caret line="20" lean-forward="true" selection-start-line="20" selection-end-line="20" />
+            <state relative-caret-position="427">
+              <caret line="26" lean-forward="true" selection-start-line="26" selection-end-line="26" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/1007/L5208_전기버스2/임건호.py">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/1007/L5209_최소생산비용/임건호.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="60">
+              <caret line="4" column="18" lean-forward="true" selection-start-line="4" selection-start-column="18" selection-end-line="4" selection-end-column="18" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/1005/L5203_HW_베이비진게임/임건호.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="480">
+              <caret line="32" column="21" selection-start-line="32" selection-start-column="21" selection-end-line="32" selection-end-column="21" />
             </state>
           </provider>
         </entry>
@@ -50,14 +121,20 @@
         <option value="$PROJECT_DIR$/0930/1242_암호코드스캔/임건호.py" />
         <option value="$PROJECT_DIR$/0930/L5186_이진수2/임건호.py" />
         <option value="$PROJECT_DIR$/0930/L5185_이진수/임건호.py" />
+        <option value="$PROJECT_DIR$/1005/L5202_화물도크/임건호.py" />
+        <option value="$PROJECT_DIR$/1005/L5203_HW_베이비진게임/임건호.py" />
+        <option value="$PROJECT_DIR$/1006/퀵정렬.py" />
+        <option value="$PROJECT_DIR$/1006/powerset의합.py" />
+        <option value="$PROJECT_DIR$/1007/HW1865_동철이의일분배/임건호.py" />
+        <option value="$PROJECT_DIR$/1007/L5205_퀵정렬/임건호.py" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="1">
-    <option name="x" value="1911" />
-    <option name="y" value="6" />
-    <option name="width" value="1298" />
-    <option name="height" value="1399" />
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="530" />
+    <option name="y" value="-17" />
+    <option name="width" value="1299" />
+    <option name="height" value="1409" />
   </component>
   <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="2" id="Add" />
@@ -67,7 +144,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -78,30 +154,37 @@
             <path>
               <item name="SWEA_algorithm_practice" type="b2602c69:ProjectViewProjectNode" />
               <item name="SWEA_algorithm_practice" type="462c0819:PsiDirectoryNode" />
-              <item name="0930" type="462c0819:PsiDirectoryNode" />
+              <item name="1007" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="SWEA_algorithm_practice" type="b2602c69:ProjectViewProjectNode" />
               <item name="SWEA_algorithm_practice" type="462c0819:PsiDirectoryNode" />
-              <item name="0930" type="462c0819:PsiDirectoryNode" />
-              <item name="1242_암호코드스캔" type="462c0819:PsiDirectoryNode" />
+              <item name="1007" type="462c0819:PsiDirectoryNode" />
+              <item name="HW1865_동철이의일분배" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="SWEA_algorithm_practice" type="b2602c69:ProjectViewProjectNode" />
               <item name="SWEA_algorithm_practice" type="462c0819:PsiDirectoryNode" />
-              <item name="0930" type="462c0819:PsiDirectoryNode" />
-              <item name="L5185_이진수" type="462c0819:PsiDirectoryNode" />
+              <item name="1007" type="462c0819:PsiDirectoryNode" />
+              <item name="L5205_퀵정렬" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="SWEA_algorithm_practice" type="b2602c69:ProjectViewProjectNode" />
               <item name="SWEA_algorithm_practice" type="462c0819:PsiDirectoryNode" />
-              <item name="0930" type="462c0819:PsiDirectoryNode" />
-              <item name="L5186_이진수2" type="462c0819:PsiDirectoryNode" />
+              <item name="1007" type="462c0819:PsiDirectoryNode" />
+              <item name="L5208_전기버스2" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="SWEA_algorithm_practice" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SWEA_algorithm_practice" type="462c0819:PsiDirectoryNode" />
+              <item name="1007" type="462c0819:PsiDirectoryNode" />
+              <item name="L5209_최소생산비용" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="RunDashboard">
@@ -116,7 +199,28 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.임건호">
+  <component name="RunManager" selected="Python.임건호 (3)">
+    <configuration name="임건호 (1)" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="SWEA_algorithm_practice" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/1005/L5203_HW_베이비진게임" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/1005/L5203_HW_베이비진게임/임건호.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="임건호 (2)" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="SWEA_algorithm_practice" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -125,11 +229,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/0824/L4875_미로" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/1007/HW1865_동철이의일분배" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/0824/L4875_미로/임건호.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/1007/HW1865_동철이의일분배/임건호.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -146,53 +250,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/0824/L4881_배열최소" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/1007/L5205_퀵정렬" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/0824/L4881_배열최소/임건호.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="임건호 (4)" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="SWEA_algorithm_practice" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/0930/1242_암호코드스캔" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/0930/1242_암호코드스캔/임건호.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="임건호 (5)" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="SWEA_algorithm_practice" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/0930/L5185_이진수" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/0930/L5185_이진수/임건호.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/1007/L5205_퀵정렬/임건호.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -222,13 +284,55 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="퀵정렬" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="SWEA_algorithm_practice" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/1006" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/1006/퀵정렬.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="powerset의합" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="SWEA_algorithm_practice" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/1006" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/1006/powerset의합.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.임건호" />
-        <item itemvalue="Python.임건호 (5)" />
-        <item itemvalue="Python.임건호 (4)" />
         <item itemvalue="Python.임건호 (3)" />
         <item itemvalue="Python.임건호 (2)" />
+        <item itemvalue="Python.powerset의합" />
+        <item itemvalue="Python.임건호 (1)" />
+        <item itemvalue="Python.임건호" />
       </list>
     </recent_temporary>
   </component>
@@ -246,15 +350,14 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="1913" y="6" width="1038" height="1119" extended-state="1" />
-    <editor active="true" />
+    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.28671327" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.14937212" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.163286" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.2567376" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -262,7 +365,7 @@
       <window_info anchor="bottom" id="Version Control" order="7" />
       <window_info anchor="bottom" id="Terminal" order="8" />
       <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
-      <window_info anchor="bottom" id="Python Console" order="10" />
+      <window_info anchor="bottom" id="Python Console" order="10" weight="0.32907802" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -338,6 +441,8 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/5185/임건호.py" />
+    <entry file="file://$PROJECT_DIR$/5186/임건호.py" />
     <entry file="file://$PROJECT_DIR$/0930/1242_암호코드스캔/임건호.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="150">
@@ -345,31 +450,90 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/5185/임건호.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="165">
-          <caret line="11" column="17" lean-forward="true" selection-start-line="11" selection-start-column="17" selection-end-line="11" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/5186/임건호.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="300">
-          <caret line="20" lean-forward="true" selection-end-line="20" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/0930/L5185_이진수/임건호.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="60">
-          <caret line="4" lean-forward="true" selection-start-line="4" selection-end-line="4" />
+          <caret line="4" selection-start-line="4" selection-end-line="4" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/0930/L5186_이진수2/임건호.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="300">
-          <caret line="20" lean-forward="true" selection-start-line="20" selection-end-line="20" />
+          <caret line="20" selection-start-line="20" selection-end-line="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/1005/L5188_최소합/임건호.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="405">
+          <caret line="27" column="24" selection-end-line="34" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/1005/L5189_전자카트/임건호.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="345">
+          <caret line="23" selection-end-line="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/1005/L5201_컨테이너운반/임건호.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="315">
+          <caret line="21" column="28" selection-end-line="21" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/1005/L5202_화물도크/임건호.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="11" column="22" selection-start-line="11" selection-start-column="22" selection-end-line="11" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/1006/퀵정렬.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" selection-start-line="8" selection-end-line="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/1006/powerset의합.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/1005/L5203_HW_베이비진게임/임건호.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="480">
+          <caret line="32" column="21" selection-start-line="32" selection-start-column="21" selection-end-line="32" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/1007/HW1865_동철이의일분배/임건호.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="540">
+          <caret line="36" column="4" selection-start-line="36" selection-start-column="4" selection-end-line="36" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/1007/L5209_최소생산비용/임건호.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="18" lean-forward="true" selection-start-line="4" selection-start-column="18" selection-end-line="4" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/1007/L5208_전기버스2/임건호.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/1007/L5205_퀵정렬/임건호.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="427">
+          <caret line="26" lean-forward="true" selection-start-line="26" selection-end-line="26" />
         </state>
       </provider>
     </entry>
