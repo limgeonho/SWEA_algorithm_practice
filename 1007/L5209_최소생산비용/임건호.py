@@ -29,7 +29,7 @@ sys.stdin = open('input.txt')
 #     dfs(0, 0)
 #     print(f'#{tc} {answer}')
 
-# 여라가지 공장 중에 하나를 골라서 dfs탐색하는 순열문제
+# 여러가지 공장 중에 하나를 골라서 dfs탐색하는 순열문제
 def go(L, total):
     global answer
     if L == n:

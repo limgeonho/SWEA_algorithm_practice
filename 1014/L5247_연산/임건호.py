@@ -6,7 +6,6 @@ def bfs(start):
     q = deque()
     q.append(start)
 
-
     check[start] = 0
 
     while q:
